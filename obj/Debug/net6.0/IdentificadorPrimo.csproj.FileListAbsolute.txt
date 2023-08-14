@@ -1,0 +1,14 @@
+C:\Users\Tiago\Documents\Aulas\IdentificadorPrimo\bin\Debug\net6.0\IdentificadorPrimo.exe
+C:\Users\Tiago\Documents\Aulas\IdentificadorPrimo\bin\Debug\net6.0\IdentificadorPrimo.deps.json
+C:\Users\Tiago\Documents\Aulas\IdentificadorPrimo\bin\Debug\net6.0\IdentificadorPrimo.runtimeconfig.json
+C:\Users\Tiago\Documents\Aulas\IdentificadorPrimo\bin\Debug\net6.0\IdentificadorPrimo.dll
+C:\Users\Tiago\Documents\Aulas\IdentificadorPrimo\bin\Debug\net6.0\IdentificadorPrimo.pdb
+C:\Users\Tiago\Documents\Aulas\IdentificadorPrimo\obj\Debug\net6.0\IdentificadorPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago\Documents\Aulas\IdentificadorPrimo\obj\Debug\net6.0\IdentificadorPrimo.AssemblyInfoInputs.cache
+C:\Users\Tiago\Documents\Aulas\IdentificadorPrimo\obj\Debug\net6.0\IdentificadorPrimo.AssemblyInfo.cs
+C:\Users\Tiago\Documents\Aulas\IdentificadorPrimo\obj\Debug\net6.0\IdentificadorPrimo.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Documents\Aulas\IdentificadorPrimo\obj\Debug\net6.0\IdentificadorPrimo.dll
+C:\Users\Tiago\Documents\Aulas\IdentificadorPrimo\obj\Debug\net6.0\refint\IdentificadorPrimo.dll
+C:\Users\Tiago\Documents\Aulas\IdentificadorPrimo\obj\Debug\net6.0\IdentificadorPrimo.pdb
+C:\Users\Tiago\Documents\Aulas\IdentificadorPrimo\obj\Debug\net6.0\IdentificadorPrimo.genruntimeconfig.cache
+C:\Users\Tiago\Documents\Aulas\IdentificadorPrimo\obj\Debug\net6.0\ref\IdentificadorPrimo.dll
